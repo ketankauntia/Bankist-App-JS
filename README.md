@@ -1,6 +1,8 @@
 # Bankist Application
 
-- ID/PASS will be updated soon (coz I don't remember :|)
+To run: open the index.html file.
+
+- ID/PASS for user1 is (id: js)(password: 1111)
 - Project from Jonas Schedman's Js course.
 
 - Take a quick view of the project below,
